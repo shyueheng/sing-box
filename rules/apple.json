@@ -1,0 +1,25 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+	"ocsp.digicert.cn",
+	"a1366.dscapi6.akamai.net"
+      ],
+      "domain_suffix": [
+	"cdngslb.com",
+	"apple.com",
+	"icloud.com",
+	"icloud.com.cn",
+	"ks-cdn.com",
+	"qtlcdn.com",
+	"alikunlun.com",
+	"cloudcsp.com",
+	"aaplimg.com",
+	"apple-dns.cn",
+	"push-apple.com.akadns.net",
+	"redmid.com"
+      ]
+    }
+  ]
+}
