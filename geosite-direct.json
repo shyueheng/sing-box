@@ -1,0 +1,20 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "api.smoot.apple.cn",
+        "apple-relay.cloudflare.com",
+        "ocsp.comodoca.com"
+      ],
+      "domain_suffix": [
+        "apple.com",
+        "cdn-apple.com",
+        "mzstatic.com",
+        "digicert.com",
+        "icloud.com",
+        "shazam.com"
+      ]
+    }
+  ]
+}
