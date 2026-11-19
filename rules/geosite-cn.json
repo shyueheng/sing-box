@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "afs.ampaeservices.com"
+        "afs.ampaeservices.com",
+        "dig.bdurl.net"
       ],
       "domain_suffix": [
         "snssdk.com",
