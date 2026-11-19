@@ -1,0 +1,38 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "afs.ampaeservices.com"
+      ],
+      "domain_suffix": [
+        "snssdk.com",
+        "aliyuncs.com",
+        "tencentcos.cn",
+        "digicert.cn",
+        "qq.com",
+        "qq.com.cn",
+        "doubao.com",
+        "icloud.com.cn",
+        "wechatpay.cn",
+        "zijieapi.com",
+        "doubaocdn.com",
+        "byteeffecttos.com",
+        "yangkeduo.com",
+        "qpic.cn",
+        "bytedance.com",
+        "qlogo.cn",
+        "ugsdk.cn",
+        "tencent-cloud.net",
+        "189.cn",
+        "bcebos.com",
+        "gtimg.com",
+        "dcloud.net.cn",
+        "autonavi.com",
+        "tencent.com",
+        "10086.cn",
+        "wxgateway.com"
+      ]
+    }
+  ]
+}
