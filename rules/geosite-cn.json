@@ -33,7 +33,11 @@
         "dcloud.net.cn",
         "digicert.cn",
         "wechatpay.cn",
-        "tencent-cloud.net"
+        "tencent-cloud.net",
+        "weixin.com",
+        "myapp.com",
+        "wechat.com",
+        "cdntips.net"
       ]
     }
   ]
