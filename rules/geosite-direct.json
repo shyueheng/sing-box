@@ -3,16 +3,17 @@
   "rules": [
     {
       "domain": [
-        "api.smoot.apple.cn",
+        "ocsp.comodoca.com",
         "apple-relay.cloudflare.com",
-        "ocsp.comodoca.com"
+        "ocsp.digicert.com",
+        "cacerts.digicert.com",
+        "api.smoot.apple.cn"
       ],
       "domain_suffix": [
+        "mzstatic.com",
+        "icloud.com",
         "apple.com",
         "cdn-apple.com",
-        "mzstatic.com",
-        "digicert.com",
-        "icloud.com",
         "shazam.com"
       ]
     }
