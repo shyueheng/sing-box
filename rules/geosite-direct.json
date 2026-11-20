@@ -8,8 +8,7 @@
         "apple-relay.fastly-edge.com",
         "ocsp.digicert.com",
         "cacerts.digicert.com",
-        "ocsp.usertrust.com",
-        "api.smoot.apple.cn"
+        "ocsp.usertrust.com"
       ],
       "domain_suffix": [
         "mzstatic.com",
@@ -18,6 +17,7 @@
         "apple.com",
         "apple-cloudkit.com",
         "cdn-apple.com",
+        "apple.cn",
         "shazam.com"
       ]
     }
