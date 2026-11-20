@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain": [
-        "afs.ampaeservices.com",
-        "dig.bdurl.net"
+        "afs.ampaeservices.com"
       ],
       "domain_suffix": [
         "bytedance.com",
